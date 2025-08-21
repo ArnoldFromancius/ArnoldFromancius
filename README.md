@@ -7,7 +7,7 @@
 ### 💻 What I Do
 
 - 🧠 **Systems & Application Programming** – C on Linux is my happy place. I enjoy understanding how things work under the hood.
-- 🌐 **Web Development** – Experience with PHP, MySQL, HTML/CSS, and a bit of JS when needed.
+- 🌐 **Web Development** – Experience with PHP, MySQL, HTML/CSS, and currently learning JS.
 - 🐧 **Linux Lover** – Comfortable working in CLI environments. I like scripting and automating tasks.
 - 💼 **Tech Generalist** – I’ve worked as a digital marketing consultant, supported users in real-world IT environments, and built custom software solutions.
 
