@@ -17,8 +17,8 @@
 
 - 💻 C, Python, PHP, Bash
 - 🗄️ MySQL, SQLite
-- 🌐 HTML, CSS
-- 🐧 Kali Linux, Ubuntu, Debian
+- 🌐 HTML, CSS, Javascript
+- 🐧 Linux, Windows, Android
 - ⚙️ Make, Git
 
 ---
