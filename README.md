@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arnold Fromancius
 
-**Jack-of-all-trades IT Technician** who can seamlessly switch between systems and application-level programming. Whether it’s fixing networks, writing backend logic in C, building web interfaces, or debugging servers — I adapt to whatever role needs filling.
+**Jack-of-all-trades IT Technician** who can seamlessly switch between systems and application-level programming. Whether it’s fixing networks, writing backend logic, building web interfaces, or debugging servers — I adapt to whatever role needs filling.
 
 ---
 
