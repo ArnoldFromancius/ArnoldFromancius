@@ -35,8 +35,8 @@
 
 ### 📫 Contact
 
-- 🌍 Website: [arnoldfromancius.github.io](https://arnoldfromancius.github.io)
-- 📧 Email: [arnoldfromancius@gmail.com](mailto:arnoldfromancius@gmail.com)
+- 🌍 Website: [fromancius.com](https://fromancius.com)
+- 📧 Email: [mail@fromancius.com](mailto:mail@fromancius.com)
 
 ---
 
